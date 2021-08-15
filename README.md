@@ -1,5 +1,4 @@
-a814bfe4553e90a67ac8531bcc8d159cc31b06ef
-
+[![CircleCI](https://circleci.com/gh/helmogey/helmogey-ml-microservice-kubernetes/tree/master.svg?style=svg)](https://circleci.com/gh/helmogey/helmogey-ml-microservice-kubernetes/tree/master)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
